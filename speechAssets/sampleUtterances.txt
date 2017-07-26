@@ -1,0 +1,15 @@
+RollIntent roll a d {sides}
+RollIntent roll d {sides}
+RollIntent d {sides}
+RollIntent {sides}
+RollIntent roll {sides}
+RollIntent roll a {sides}
+RollIntent roll d {sides} {times}
+RollIntent roll a die {times} d {sides}
+RollIntent roll {times} d {sides}
+RollIntent {times} d {sides}
+RollIntent roll a {sides} sided die {times}
+RollIntent roll {times} {sides}
+RollIntent roll {times} {sides}
+RollIntent roll a {sides}
+RollIntent roll {times} dice with {sides}
